@@ -1,0 +1,5 @@
+setupRequired(python)
+setupRequired(numpy)
+setupRequired(pandas)
+setupRequired(pytest)
+setupRequired(pytest_cov)
